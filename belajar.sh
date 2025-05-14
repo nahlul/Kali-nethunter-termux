@@ -4,7 +4,7 @@ username=""
 
 while [ "$username" != "$user" ]
 do
-    read -p "Masukkan username: " username
+    read -p "Masukkan user admin: " username
 done
 
 # Membuat program dasar
